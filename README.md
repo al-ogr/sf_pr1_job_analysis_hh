@@ -1,6 +1,6 @@
-<center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt="drawing" style="width:400px;">
+<center><img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt="drawing" style="width:400px;"></center>
 
-# Проект: Анализ резюме из HeadHunter </center>
+# <center>Проект: Анализ резюме из HeadHunter</center>
 
 ## Оглавление  
 [1. Описание проекта](README.md#Описание-проекта)  
